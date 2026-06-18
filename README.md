@@ -1,16 +1,13 @@
 # Data Structures Lab Programs
 
-## 📌 Overview
+## Overview
 
-This repository contains Data Structures laboratory programs completed as part of the B.Tech Computer Science and Engineering (KTU) curriculum.
+This repository contains Data Structures lab programs completed as part of the B.Tech Computer Science and Engineering curriculum (KTU).
 
-The programs are implemented in C and cover fundamental data structures and algorithms including stacks, queues, linked lists, sorting techniques, sparse matrix operations, polynomial manipulation, and expression evaluation.
+The programs are written in C and cover the basic concepts taught in the Data Structures laboratory course.
 
----
+## Topics Covered
 
-## 🧠 Concepts Covered
-
-- Arrays
 - Stacks
 - Queues
 - Circular Queues
@@ -18,72 +15,55 @@ The programs are implemented in C and cover fundamental data structures and algo
 - Doubly Linked Lists
 - Polynomial Operations
 - Sparse Matrix Operations
-- Expression Conversion and Evaluation
-- String Manipulation
-- Searching Techniques
-- Sorting Techniques
-
----
-
-## 📁 Repository Contents
-
-This repository contains multiple Data Structures programs including:
-
-- Stack Implementation
-- Queue Implementation
-- Circular Queue
-- Queue using Linked List
-- Doubly Linked List
-- Polynomial Operations
-- Polynomial Addition
-- Polynomial using Linked List
 - Infix to Postfix Conversion
 - Postfix Evaluation
-- String Reversal using Stack
+- String Reversal
 - Binary Search
 - Insertion Sort
 - Selection Sort
 - Quick Sort
 - Merge Sort
-- Sparse Matrix Addition
-- Sparse Matrix Multiplication
 
----
+## Repository Contents
 
-## ⚙️ How to Run
+The repository contains programs related to:
 
-1. Install a C compiler (GCC recommended)
-2. Open terminal in the program folder
-3. Compile the program:
+- Stack implementation
+- Queue implementation
+- Circular queue
+- Queue using linked list
+- Doubly linked list
+- Polynomial operations
+- Infix to postfix conversion
+- Postfix evaluation
+- String reversal using stack
+- Binary search
+- Sorting algorithms
+- Sparse matrix addition and multiplication
 
-   ```bash
-   gcc FileName.c -o output
-   ```
+## How to Run
 
-4. Run the program:
+Compile a program:
 
-   ```bash
-   ./output
-   ```
+```bash
+gcc FileName.c -o output
+```
 
----
+Run the program:
 
-## 🎯 Purpose
+```bash
+./output
+```
 
-- Understand fundamental Data Structures concepts
-- Practice implementation of linear and non-linear data structures
-- Learn basic searching and sorting algorithms
-- Build a strong foundation for problem solving and algorithm design
+## Purpose
 
----
+These programs were developed as part of Data Structures lab work to understand the implementation of basic data structures and algorithms using C.
 
-## 👩‍💻 Author
+## Author
 
 Franceena Rosy  
 B.Tech Computer Science Engineering (KTU)
 
----
+## Note
 
-## 📌 Note
-
-These programs are part of academic laboratory coursework and are intended for learning and educational purposes.
+This repository is intended for academic and learning purposes.
